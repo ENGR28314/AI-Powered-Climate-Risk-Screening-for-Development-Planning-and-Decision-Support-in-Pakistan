@@ -1,0 +1,5 @@
+project_id,project_name,latitude,longitude,elevation_m,start_year,end_year
+PAK-01,Upper Indus Basin Hydrology,35.2000,74.3000,2200,2020,2025
+PAK-02,Punjab Cotton Belt Agro-Eco,30.1500,72.6500,150,2021,2025
+PAK-03,Sindh Arid Zone Irrigation,25.4000,68.3500,30,2018,2024
+PAK-04,Balochistan Orchard Water Mgmt,30.2000,67.0000,1650,2022,2025
