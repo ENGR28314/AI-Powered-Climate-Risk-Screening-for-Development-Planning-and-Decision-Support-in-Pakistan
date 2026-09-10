@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+.streamlit/secrets.toml
+*.nc
+*.nc4
+*.csv
+!sample_projects.csv
